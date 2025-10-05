@@ -1,0 +1,12 @@
+{
+  "name": "business-todo-app",
+  "version": "1.0.0",
+  "description": "Creative and innovative business to-do application",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx live-server"
+  },
+  "keywords": ["todo", "business", "productivity"],
+  "author": "",
+  "license": "MIT"
+}
